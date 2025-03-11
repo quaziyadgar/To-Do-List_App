@@ -24,7 +24,7 @@ Features
 
 Clone the repository:
 
-git clone https://github.com/your-username/todo-list-app.git
+git clone https://github.com/quaziyadgar/To-Do-List_App.git
 cd todo-list-app
 
 Install dependencies:
