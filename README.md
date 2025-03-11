@@ -52,3 +52,7 @@ Technologies Used
     ❤️ Vite
 
     ❤️ Tailwind CSS
+
+Hosted Link
+
+https://quaziyadgar.github.io/To-Do-List_App
